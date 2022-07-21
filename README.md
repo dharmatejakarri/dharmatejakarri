@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dharmatejakarri
+- 👋 Hi, I’m @karridharmateja
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning big data analytics 
 - 💞️ I’m looking to collaborate on 
